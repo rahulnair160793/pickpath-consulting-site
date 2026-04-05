@@ -212,7 +212,7 @@ export default function HomePage() {
             <div className="mt-8 grid gap-4 md:grid-cols-2">
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
                 <div className="text-sm text-slate-300">Email</div>
-                <div className="mt-2 text-lg font-medium">yourname@email.com</div>
+                <div className="mt-2 text-lg font-medium">ryan@pickpathconsulting.com</div>
               </div>
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
                 <div className="text-sm text-slate-300">Location</div>
