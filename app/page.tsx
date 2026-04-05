@@ -1,4 +1,4 @@
-export default function HomePage() {
+export default function WarehouseConsultingWebsite() {
   const services = [
     {
       title: "Warehouse Process Health Check",
@@ -83,7 +83,7 @@ export default function HomePage() {
                 Helping small businesses build more organised, accurate, and scalable warehouses
               </h1>
               <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">
-                PickPath Consulting helps small and growing businesses improve warehouse operations through better receiving, putaway, picking, packing, stocktake, bin location, barcode, and SOP design.
+                PickPath Consulting helps small and growing businesses improve warehouse operations through better receiving, putaway, picking, packing, stocktake, bin location setup, barcode workflows, warehouse SOP design, and day-to-day warehouse process improvement.
               </p>
               <div className="mt-8 flex flex-wrap gap-4">
                 <a
@@ -112,7 +112,7 @@ export default function HomePage() {
 
             <div className="grid gap-5">
               <div className="rounded-[2rem] border border-black/5 bg-white p-8 shadow-xl shadow-slate-900/5">
-                <div className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-500">What I help with</div>
+                <div className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-500">What We Help With</div>
                 <ul className="mt-6 space-y-4 text-slate-700">
                   <li>Receiving and putaway process design</li>
                   <li>Picking and packing workflow improvement</li>
@@ -126,7 +126,7 @@ export default function HomePage() {
               <div className="rounded-[2rem] border border-black/5 bg-gradient-to-br from-slate-900 to-slate-800 p-8 text-white shadow-xl shadow-slate-900/10">
                 <div className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-300">Built for small businesses</div>
                 <p className="mt-4 text-lg leading-8 text-slate-200">
-                  Ideal for ecommerce brands, wholesalers, and growing businesses that want better warehouse structure without hiring a large enterprise consulting firm.
+                  Ideal for ecommerce brands, wholesalers, online retailers, and growing businesses that want better warehouse structure without hiring a large enterprise consulting firm.
                 </p>
               </div>
             </div>
@@ -164,15 +164,15 @@ export default function HomePage() {
             <div>
               <div className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-500">About</div>
               <h2 className="mt-3 text-3xl font-semibold tracking-tight text-slate-900 md:text-4xl">
-                Practical advice shaped by real warehouse and WMS exposure
+                Practical warehouse consulting shaped by real operational and WMS exposure
               </h2>
             </div>
             <div>
               <p className="text-lg leading-8 text-slate-600">
-                My focus is on helping small businesses build clearer warehouse processes that teams can actually follow. That includes improving how stock is received, stored, picked, packed, counted, and handled across day-to-day operations.
+                PickPath Consulting helps small and growing businesses build clearer warehouse processes that teams can actually follow. That includes improving how stock is received, stored, picked, packed, counted, and handled across day-to-day operations.
               </p>
               <p className="mt-5 text-lg leading-8 text-slate-600">
-                Rather than overcomplicating operations, PickPath Consulting focuses on practical improvements that reduce confusion, improve consistency, and create a more organised warehouse environment.
+                Rather than overcomplicating operations, PickPath Consulting focuses on practical improvements that reduce confusion, improve consistency, and create a more organised warehouse environment. Based in Sydney, the focus is on practical warehouse consulting for receiving, putaway, picking, packing, bin location setup, barcode workflows, stocktake structure, and warehouse SOP design for growing businesses.
               </p>
             </div>
           </div>
@@ -203,16 +203,16 @@ export default function HomePage() {
           <div className="rounded-[2.5rem] border border-black/5 bg-slate-900 px-8 py-12 text-white shadow-2xl shadow-slate-900/10 md:px-12">
             <div className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-300">Contact</div>
             <h2 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">
-              Let’s improve the way your warehouse runs
+              Let’s improve the way your warehouse operates
             </h2>
             <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-300">
-              If you are looking to improve warehouse processes, reduce operational confusion, and build a more structured way of working, get in touch to book a discovery call.
+              If you are looking to improve warehouse processes, improve inventory accuracy, streamline receiving and picking workflows, and build a more structured way of working, get in touch to book a discovery call.
             </p>
 
             <div className="mt-8 grid gap-4 md:grid-cols-2">
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
                 <div className="text-sm text-slate-300">Email</div>
-                <div className="mt-2 text-lg font-medium">ryan@pickpathconsulting.com</div>
+                <div className="mt-2 text-lg font-medium">yourname@email.com</div>
               </div>
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
                 <div className="text-sm text-slate-300">Location</div>
