@@ -126,7 +126,7 @@ const jsonLd = {
       contactPoint: {
         "@type": "ContactPoint",
         contactType: "sales",
-        email: "rahulnair160793@gmail.com",
+        email: "rian@pickpathconsulting.com",
       },
       sameAs: ["https://github.com/rahulnair160793"],
     },
